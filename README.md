@@ -18,6 +18,8 @@ This assessment project includes a basic backend with **REST APIs (CRUD)**, data
 
 ## Features
 
+Base Url : http://localhost:9090
+
 - Customer APIs
      - POST /customer/create
      - GET /customer/detail/{id}
