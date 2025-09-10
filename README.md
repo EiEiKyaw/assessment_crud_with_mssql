@@ -30,6 +30,6 @@ Base Url : http://localhost:9090
      - POST /wallet/transfer
      - POST /wallet/transaction/detail
 - Postman Collection
-     - https://drive.google.com/file/d/1tzCWY9pD1quWnvWj2cpdDd5vn4xqUd2i/view?usp=sharing
+     - https://drive.google.com/drive/folders/162ZpRRiU1Aq58jBhEZUtfffEjzxglS3o?usp=sharing
 - Database Name
      - TESTDB
